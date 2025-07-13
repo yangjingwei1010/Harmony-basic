@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "my_first_name",
+      "value": "label12ed"
+    },
+    {
+      "name": "EntryAbility1_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility1_label",
+      "value": "label"
+    },
+    {
+      "name": "Permission_location",
+      "value": "申请定位权限"
+    },
+    {
+      "name": "startAbilityCase_desc",
+      "value": "description"
+    },
+    {
+      "name": "startAbilityCase_label",
+      "value": "label"
+    }
+  ]
+}
